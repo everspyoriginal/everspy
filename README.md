@@ -4,6 +4,7 @@ OWNER AND DEVELOPER OF THE SOURCE CODE THAT INSPIRED MANY RATS THAT EXIST TODAY.
     
 ![enter image description here](https://github.com/everspyoriginal/everspy/blob/main/IMG_5599.PNG?raw=true)
 ![enter image description here](https://github.com/everspyoriginal/everspy/blob/main/IMG_5600.PNG?raw=true)
+![everspy](https://user-images.githubusercontent.com/124161128/221339344-4ee5ac5f-4632-46fe-81b0-53fc9fc31228.gif)
 
 ## ♾️ EVERSPY 2023 FEATURES 
 
