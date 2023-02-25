@@ -116,3 +116,5 @@ PRECISE LOCATION TRACKING OF VICTIMS.
 [TELEGRAM CHANNEL](https://t.me/everspyoriginal)
 
 [CONTACT ME](https://t.me/nsmttodev)
+
+![SEND ONLY BITCOIN (BTC) TO THIS ADDRESS.](https://github.com/everspyoriginal/everspy/blob/main/IMG_5604.JPG?raw=true)
