@@ -11,6 +11,7 @@ OWNER AND DEVELOPER OF THE SOURCE CODE THAT INSPIRED MANY RATS THAT EXIST TODAY.
 ## GHOST-MODE
 
 DISPLAY AN IMAGE ON THE VICTIM'S DEVICE DURING CONTROL.
+
 ![everspy](https://github.com/everspyoriginal/everspy/blob/main/everspy.gif?raw=true)
 
 ## FREEZER
