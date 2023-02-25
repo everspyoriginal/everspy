@@ -107,7 +107,7 @@ PRECISE LOCATION TRACKING OF VICTIMS.
   
 
 
-## ♾️ CONTACT
+## ♾️ CONTACT ME
   
 
 - [TELEGRAM CHANNEL](https://t.me/everspyoriginal)
