@@ -10,9 +10,9 @@ OWNER AND DEVELOPER OF THE SOURCE CODE THAT INSPIRED MANY RATS THAT EXIST TODAY.
 
   
 
-### ⚠ Disclaimer
+### ⚠ DISCLAIMER
 
-- The user is solely and exclusively responsible for the use of the tool, and the user is also solely responsible for any material, personal, moral, image damage, or of any other nature, that may be caused by the use of the tool.
+- THE USER IS SOLELY AND EXCLUSIVELY RESPONSIBLE FOR THE USE OF THE TOOL, AND THE USER IS ALSO SOLELY RESPONSIBLE FOR ANY MATERIAL, PERSONAL, MORAL, IMAGE DAMAGE, OR OF ANY OTHER NATURE, THAT MAY BE CAUSED BY THE USE OF THE TOOL.
 
   
 
