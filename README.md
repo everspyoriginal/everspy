@@ -1,14 +1,4 @@
 ## ♾️ EVERSPY - ANDROID ADVANCED REMOTE TOOL
-<!-- Google tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-G3S1L4133E">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-G3S1L4133E');
-</script>
   
 
 OWNER AND DEVELOPER OF THE SOURCE CODE THAT INSPIRED MANY RATS THAT EXIST TODAY. I LOST ALL MY SOCIAL NETWORKS AND CHANNELS DUE TO ILLEGAL ACTIVITIES, SO THERE ARE A LOT OF OPPORTUNISTS USING MY CODE NAME AND MY OLD SOURCE CODE LEFT BY ME FOR FREE ON MY GITHUB TO SCAM PEOPLE. CAREFUL!
