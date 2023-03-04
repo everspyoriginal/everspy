@@ -3,12 +3,11 @@
 
 OWNER AND DEVELOPER OF THE SOURCE CODE THAT INSPIRED MANY RATS THAT EXIST TODAY. I LOST ALL MY SOCIAL NETWORKS AND CHANNELS DUE TO ILLEGAL ACTIVITIES, SO THERE ARE A LOT OF OPPORTUNISTS USING MY CODE NAME AND MY OLD SOURCE CODE LEFT BY ME FOR FREE ON MY GITHUB TO SCAM PEOPLE. CAREFUL!
 
-![enter image description here](https://github.com/everspyoriginal/everspy/blob/main/IMG_5599.PNG?raw=true)
 
-![enter image description here](https://github.com/everspyoriginal/everspy/blob/main/IMG_5600.PNG?raw=true)
 - #### [EVERSPY - VIDEO REVIEW (YOUTUBE) ](https://youtu.be/iSWxQ4U8Mvs)
+![IMG_5879](https://user-images.githubusercontent.com/124161128/222858192-7717e39d-35ef-47f5-8ba0-4cd46ded6060.jpg)
+![IMG_5880](https://user-images.githubusercontent.com/124161128/222858194-962315ba-cb79-4c34-8455-7845f714d60f.jpg)
 
-  
 
 ## ⚠ DISCLAIMER
 
