@@ -232,9 +232,9 @@ ALL FUTURE UPDATES WILL BE RELEASED AUTOMATICALLY
 ### SEND ONLY BITCOIN (BTC) TO THIS ADDRESS.
 ###### bc1q575gawfn6j54sf20c39954m378qst437749nfe
 
-|**$400 USD 1 MONTH**  |**$800 USD 2 MONTH**   |
-|----------------------|-----------------------|
-|**$1200 USD 3 MONTH** |**$2200 USD LIFETIME** |
+|**$400 1 MONTH**  |**$800 2 MONTH**   |
+|------------------|-------------------|
+|**$1200 3 MONTH** |**$2200 LIFETIME** |
 
 ![bc1q575gawfn6j54s_](https://user-images.githubusercontent.com/124161128/222869766-842db887-e043-4002-8062-222056acd5bd.png)
 
@@ -244,9 +244,10 @@ ALL FUTURE UPDATES WILL BE RELEASED AUTOMATICALLY
 
 ### SEND ONLY TETHER (TRC20) TO THIS ADDRESS
 ###### TYh48FzVg4EzrkxpWouMVBt9wxC6TaBwHP
-|**$400 USD 1 MONTH**  |**$800 USD 2 MONTH**   |
-|----------------------|-----------------------|
-|**$1200 USD 3 MONTH** |**$2200 USD LIFETIME** |
+|**$400 1 MONTH**  |**$800 2 MONTH**   |
+|------------------|-------------------|
+|**$1200 3 MONTH** |**$2200 LIFETIME** |
+
 
 ![TYh48FzVg4EzrkxpW_](https://user-images.githubusercontent.com/124161128/222869782-d4fbe13e-24d2-4670-b4fa-b398c8d45faf.png)
 
