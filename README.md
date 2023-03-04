@@ -26,10 +26,9 @@ OWNER AND DEVELOPER OF THE SOURCE CODE THAT INSPIRED MANY RATS THAT EXIST TODAY.
 DISPLAY AN IMAGE ON THE USER'S DEVICE DURING CONTROL.
 
   
+![IMG_20230](https://user-images.githubusercontent.com/124161128/222858426-04f80599-a21c-410d-88cb-07e36c61c6b9.gif)
 
-![everspy](https://github.com/everspyoriginal/everspy/blob/main/everspy.gif?raw=true)
 
-  
 
 #### FREEZER
 
