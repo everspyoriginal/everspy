@@ -179,7 +179,7 @@
   
 
 - PRECISE LOCATION TRACKING OF USER.
- 
+- 
 #### OTHER FEATURES
 
 - RECORD CALLS
@@ -219,7 +219,7 @@
 ##
 ##
 ##
-## ♾️ HOW TO BUY? YOU CAN PURCHASE HERE ON GITHUB OR ON MY TELEGRAM
+## ♾️ HOW TO BUY? YOU CAN PURCHASE HERE ON GITHUB, SELLIX OR ON MY TELEGRAM
 
 - AFTER PAYMENT SEND PROOF OF PAYMENT TO [EMAIL](mailto:nsmttodev@proton.me) OR [TELEGRAM](https://t.me/nsmttodev). AFTER PAYMENT CONFIRMATION, RECEIVE THE DOWNLOAD TOOL LINK IMMEDIATELY.
 - I DO NOT ACCEPT PAYPAL OR ANY OTHER TYPE OF PAYMENT, DO NOT INSIST.
@@ -230,7 +230,14 @@
 
 ##
 ##
-##  
+##
+### SELLIX SHOP.
+###### [SELLIX SHOP](https://everspyrat.mysellix.io)
+|**$400 1 MONTH**  |**$800 2 MONTH**   |
+|------------------|-------------------|
+|**$1200 3 MONTH** |**$2200 LIFETIME** |
+![sellix](https://user-images.githubusercontent.com/124161128/222880552-8b04fb70-bb17-4ab9-9c1c-4a2a68db7526.jpg)
+
 
 ### SEND ONLY BITCOIN (BTC) TO THIS ADDRESS.
 ###### bc1q575gawfn6j54sf20c39954m378qst437749nfe
