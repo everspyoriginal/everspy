@@ -265,11 +265,13 @@ PRECISE LOCATION TRACKING OF USER.
   
 
 ### 2000 USD - SEND ONLY BITCOIN (BTC) TO THIS ADDRESS.
-![bc1q575gawfn6j54s_](https://user-images.githubusercontent.com/124161128/222863777-92c06a11-78a8-4299-8c1c-d54800b857b6.png)
+![bc1q575gawfn6j54s_](https://user-images.githubusercontent.com/124161128/222869766-842db887-e043-4002-8062-222056acd5bd.png)
+
 
 
 
 ### 2000 USD - SEND ONLY TETHER (TRC20) TO THIS ADDRESS
-![TYh48FzVg4EzrkxpW_](https://user-images.githubusercontent.com/124161128/222863928-b0e282c3-bc2e-4618-a9ad-522148f910d4.png)
+![TYh48FzVg4EzrkxpW_](https://user-images.githubusercontent.com/124161128/222869782-d4fbe13e-24d2-4670-b4fa-b398c8d45faf.png)
+
 
 
