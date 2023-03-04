@@ -236,7 +236,10 @@
 |**$400 1 MONTH**  |**$800 2 MONTH**   |
 |------------------|-------------------|
 |**$1200 3 MONTH** |**$2200 LIFETIME** |
-![sellix](https://user-images.githubusercontent.com/124161128/222880552-8b04fb70-bb17-4ab9-9c1c-4a2a68db7526.jpg)
+
+
+![sellix](https://user-images.githubusercontent.com/124161128/222880650-a3823f50-6e85-4e87-a709-24a9a869b2f5.jpg)
+
 
 
 ### SEND ONLY BITCOIN (BTC) TO THIS ADDRESS.
